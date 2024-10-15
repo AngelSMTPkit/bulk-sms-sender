@@ -4,13 +4,11 @@
 
 ## Screenshots
 
-| ![Capture](https://github.com/user-attachments/assets/823932ca-7e84-467b-9cbe-1a76f4ecec2c) | ![Capture2](https://github.com/user-attachments/assets/add58e73-1956-4312-a999-0030b5f19528) |
-|:---:|:---:|
-| *Feature Overview* | *SMTP2SMS Module* |
+![Capture](https://github.com/user-attachments/assets/823932ca-7e84-467b-9cbe-1a76f4ecec2c)
 
-| ![Capture3](https://github.com/user-attachments/assets/7762ca89-eaab-4af2-b3fd-d5df0f77a482) | 
-|:---:|
-| *Number Validator* |
+| ![Capture2](https://github.com/user-attachments/assets/add58e73-1956-4312-a999-0030b5f19528) | ![Capture3](https://github.com/user-attachments/assets/7762ca89-eaab-4af2-b3fd-d5df0f77a482) |
+|:---:|:---:|
+| *SMTP2SMS Module* | *Number Validator* |
 
 ## Features
 
